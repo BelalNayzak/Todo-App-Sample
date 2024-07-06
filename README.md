@@ -67,7 +67,6 @@ lib
 │       └── ui
 │           └── todo_list_page.dart
 ├── main.dart
-└── bindings.dart
 ```
 
 
