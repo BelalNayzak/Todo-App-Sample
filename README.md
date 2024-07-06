@@ -51,6 +51,7 @@ flutter test
 
 ### Project Structure
 
+```
 lib
 ├── core
 │   └── utils
@@ -67,7 +68,7 @@ lib
 │           └── todo_list_page.dart
 ├── main.dart
 └── bindings.dart
-
+```
 
 
 ### Key Technologies
@@ -92,7 +93,7 @@ lib
 
 
 
-### Key Technologies
+### Developer Notes
 
 1. **The focus here is not for the app ui/ux. It's just a basic ui just to focus on functinality and code quality.**
 2. **The structure of the code is very simple as it's just a very small app. So, No need for OVER ENGINEERING things.**
